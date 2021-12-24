@@ -1,0 +1,2 @@
+MainPackage=C:\Users\iaris\source\repos\QuickResumePc\QuickResumePc\QuickResumePc (Package)\bin\x64\Debug\QuickResumePc (Package)_1.0.0.0_x64_Debug.msix
+SymbolPackage=C:\Users\iaris\source\repos\QuickResumePc\QuickResumePc\QuickResumePc (Package)\obj\x64\Debug\Symbols\QuickResumePc (Package)_1.0.0.0_x64_Debug.appxsym

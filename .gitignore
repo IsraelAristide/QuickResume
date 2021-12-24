@@ -1,3 +1,10 @@
 .vscode
-bin/*
-obj/*
+.vs
+
+QuickResumePc/QuickResumePc/bin
+QuickResumePc/QuickResumePc/obj
+
+QuickResumePc/QuickResumePc (Package)/bin
+QuickResumePc/QuickResumePc (Package)/obj
+QuickResumePc/QuickResumePc (Package)/AppPackages
+
